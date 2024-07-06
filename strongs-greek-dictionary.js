@@ -1,14 +1,3 @@
-/**
- *                      Dictionary of Greek Words
- *                              taken from
- *                    Strong's Exhaustive Concordance
- *                                   by
- *                      James Strong, S.T.D., LL.D.
- *                                  1890
- * 
- * JSON version
- * ============
-
 var strongsGreekDictionary = {"G1615":{"strongs_def":" to complete fully","derivation":"from G1537 (ἐκ) and G5055 (τελέω);","translit":"ekteléō","lemma":"ἐκτελέω","kjv_def":"finish"},
 "G2274":{"strongs_def":" to make worse, i.e. vanquish (literally or figuratively); by implication, to rate lower","derivation":"from the same as G2276 (ἥττον);","translit":"hēttáō","lemma":"ἡττάω","kjv_def":"be inferior, overcome"},
 "G4533":{"derivation":"of Hebrew origin (H08012);","strongs_def":" Salmon, an Israelite","kjv_def":"Salmon","translit":"Salmṓn","lemma":"Σαλμών"},
