@@ -8,25 +8,6 @@
  * 
  * JSON version
  * ============
- * Copyright 2009, Open Scriptures. CC-BY-SA. Derived from XML.
- * $Id$
- *
- * XML e-text version
- * ==================
- * 
- * The XML version of this work was prepared in 2006 by Ulrik Petersen
- * (http://ulrikp.org) from the ASCII e-text version presented below.
- * The XML version contains "real" UTF-8 Greek where the original ASCII
- * e-text version had transliteration.  The XML has a stand-alone DTD
- * which should be easy to follow.
- * 
- * Ulrik Petersen welcomes bugfixes to the text.  Please send them to the
- * address provided on the website:
- * 
- * http://ulrikp.org
- * 
- * Ulrik Petersen
- */
 
 var strongsGreekDictionary = {"G1615":{"strongs_def":" to complete fully","derivation":"from G1537 (ἐκ) and G5055 (τελέω);","translit":"ekteléō","lemma":"ἐκτελέω","kjv_def":"finish"},
 "G2274":{"strongs_def":" to make worse, i.e. vanquish (literally or figuratively); by implication, to rate lower","derivation":"from the same as G2276 (ἥττον);","translit":"hēttáō","lemma":"ἡττάω","kjv_def":"be inferior, overcome"},
