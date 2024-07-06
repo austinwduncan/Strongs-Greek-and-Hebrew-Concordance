@@ -6,22 +6,6 @@
  *
  * JSON version
  * ============
- * Copyright 2010, Open Scriptures. CC-BY-SA. Derived from XML.
- * $Id$
- *
- * XML e-text version
- * ==================
- * From a source by David Instone-Brewer (www.2LetterLookup.com):
- * "The data came from several PD sources which were full of errors. 
- * I cleaned them by comparing them to each other and (where 
- * necessary) looking at the original."
- *
- * Editing, corrections and Unicode transliterations
- * by David Troidl.
- *
- * Comments or corrections:
- * open-scriptures@googlegroups.com
- */
 
 var strongsHebrewDictionary = {"H1":{"lemma":"אָב","xlit":"ʼâb","pron":"awb","derivation":"a primitive word;","strongs_def":"father, in a literal and immediate, or figurative and remote application","kjv_def":"chief, (fore-) father(-less), [idiom] patrimony, principal. Compare names in 'Abi-'."},
 "H2":{"lemma":"אַב","xlit":"ʼab","pron":"ab","derivation":"(Aramaic) corresponding to H1 (אָב)","strongs_def":"{father}","kjv_def":"father."},
